@@ -1,6 +1,4 @@
-('C:\\Users\\AlexReed\\OneDrive - Access Ingenuity\\Alternate Format '
- 'Files\\TEMPLATES - LARGE '
- 'PRINT\\Scripts\\Script-for-Collecting-Documents-for-Bulk-Printing\\build\\collect_pdfs\\PYZ-00.pyz',
+('E:\\Script-for-Collecting-Documents-for-Bulk-Printing\\build\\collect_pdfs\\PYZ-00.pyz',
  [('__future__',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.496.0_x64__qbz5n2kfra8p0\\Lib\\__future__.py',

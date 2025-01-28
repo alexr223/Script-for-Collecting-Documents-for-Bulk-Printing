@@ -1,6 +1,4 @@
-('C:\\Users\\AlexReed\\OneDrive - Access Ingenuity\\Alternate Format '
- 'Files\\TEMPLATES - LARGE '
- 'PRINT\\Scripts\\Script-for-Collecting-Documents-for-Bulk-Printing\\build\\collect_pdfs\\collect_pdfs.exe',
+('E:\\Script-for-Collecting-Documents-for-Bulk-Printing\\build\\collect_pdfs\\collect_pdfs.exe',
  True,
  False,
  True,
@@ -31,39 +29,25 @@
  None,
  None,
  None,
- 'C:\\Users\\AlexReed\\OneDrive - Access Ingenuity\\Alternate Format '
- 'Files\\TEMPLATES - LARGE '
- 'PRINT\\Scripts\\Script-for-Collecting-Documents-for-Bulk-Printing\\build\\collect_pdfs\\collect_pdfs.pkg',
+ 'E:\\Script-for-Collecting-Documents-for-Bulk-Printing\\build\\collect_pdfs\\collect_pdfs.pkg',
  [('pyi-contents-directory _internal', '', 'OPTION'),
   ('PYZ-00.pyz',
-   'C:\\Users\\AlexReed\\OneDrive - Access Ingenuity\\Alternate Format '
-   'Files\\TEMPLATES - LARGE '
-   'PRINT\\Scripts\\Script-for-Collecting-Documents-for-Bulk-Printing\\build\\collect_pdfs\\PYZ-00.pyz',
+   'E:\\Script-for-Collecting-Documents-for-Bulk-Printing\\build\\collect_pdfs\\PYZ-00.pyz',
    'PYZ'),
   ('struct',
-   'C:\\Users\\AlexReed\\OneDrive - Access Ingenuity\\Alternate Format '
-   'Files\\TEMPLATES - LARGE '
-   'PRINT\\Scripts\\Script-for-Collecting-Documents-for-Bulk-Printing\\build\\collect_pdfs\\localpycs\\struct.pyc',
+   'E:\\Script-for-Collecting-Documents-for-Bulk-Printing\\build\\collect_pdfs\\localpycs\\struct.pyc',
    'PYMODULE'),
   ('pyimod01_archive',
-   'C:\\Users\\AlexReed\\OneDrive - Access Ingenuity\\Alternate Format '
-   'Files\\TEMPLATES - LARGE '
-   'PRINT\\Scripts\\Script-for-Collecting-Documents-for-Bulk-Printing\\build\\collect_pdfs\\localpycs\\pyimod01_archive.pyc',
+   'E:\\Script-for-Collecting-Documents-for-Bulk-Printing\\build\\collect_pdfs\\localpycs\\pyimod01_archive.pyc',
    'PYMODULE'),
   ('pyimod02_importers',
-   'C:\\Users\\AlexReed\\OneDrive - Access Ingenuity\\Alternate Format '
-   'Files\\TEMPLATES - LARGE '
-   'PRINT\\Scripts\\Script-for-Collecting-Documents-for-Bulk-Printing\\build\\collect_pdfs\\localpycs\\pyimod02_importers.pyc',
+   'E:\\Script-for-Collecting-Documents-for-Bulk-Printing\\build\\collect_pdfs\\localpycs\\pyimod02_importers.pyc',
    'PYMODULE'),
   ('pyimod03_ctypes',
-   'C:\\Users\\AlexReed\\OneDrive - Access Ingenuity\\Alternate Format '
-   'Files\\TEMPLATES - LARGE '
-   'PRINT\\Scripts\\Script-for-Collecting-Documents-for-Bulk-Printing\\build\\collect_pdfs\\localpycs\\pyimod03_ctypes.pyc',
+   'E:\\Script-for-Collecting-Documents-for-Bulk-Printing\\build\\collect_pdfs\\localpycs\\pyimod03_ctypes.pyc',
    'PYMODULE'),
   ('pyimod04_pywin32',
-   'C:\\Users\\AlexReed\\OneDrive - Access Ingenuity\\Alternate Format '
-   'Files\\TEMPLATES - LARGE '
-   'PRINT\\Scripts\\Script-for-Collecting-Documents-for-Bulk-Printing\\build\\collect_pdfs\\localpycs\\pyimod04_pywin32.pyc',
+   'E:\\Script-for-Collecting-Documents-for-Bulk-Printing\\build\\collect_pdfs\\localpycs\\pyimod04_pywin32.pyc',
    'PYMODULE'),
   ('pyiboot01_bootstrap',
    'C:\\Users\\AlexReed\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
@@ -75,14 +59,12 @@
    'C:\\Users\\AlexReed\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth__tkinter.py',
    'PYSOURCE'),
   ('collect_pdfs',
-   'C:\\Users\\AlexReed\\OneDrive - Access Ingenuity\\Alternate Format '
-   'Files\\TEMPLATES - LARGE '
-   'PRINT\\Scripts\\Script-for-Collecting-Documents-for-Bulk-Printing\\collect_pdfs.py',
+   'E:\\Script-for-Collecting-Documents-for-Bulk-Printing\\collect_pdfs.py',
    'PYSOURCE')],
  [],
  False,
  False,
- 1738085148,
+ 1738094392,
  [('run.exe',
    'C:\\Users\\AlexReed\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\run.exe',
    'EXECUTABLE')],
