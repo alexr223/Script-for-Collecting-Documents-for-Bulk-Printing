@@ -3,19 +3,12 @@
 *.pyo
 __pycache__/
 
-
-
 # macOS system files
 .DS_Store
 
 # Windows system files
 Thumbs.db
 ehthumbs.db
-
-# PyInstaller build directories
-dist/
-build/
-*.spec
 
 # VS Code settings
 .vscode/
