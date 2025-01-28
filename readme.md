@@ -3,8 +3,8 @@
 1. Download this project: git clone https://github.com/alexr223/pdf-collector.git
 
 2.  **Run the Script**  
-   Open a terminal, navigate to the folder containing `collect_pdfs.py`, and run the script with:
-   ```bash
+   Open a terminal, navigate to the folder containing `collect_pdfs.py`, and run the script in VS Code or just in Windows Command Prompt with:
+   ```terminal
    python collect_pdfs.py
    ```
 
