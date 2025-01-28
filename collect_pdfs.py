@@ -30,7 +30,7 @@ def gather_pdfs(parent_directory):
     # Iterate through each subfolder
     for subdir, dirs, files in os.walk(parent_directory):
         # Check if the "Complete" folder exists in the current directory
-        if os.path.basename(subdir) == "Complete":
+        if "Complete" in os.path.basename(subdir):
             for file in files:
                 if file.lower().endswith(".pdf"):
                     pdf_files.append(os.path.join(subdir, file))
