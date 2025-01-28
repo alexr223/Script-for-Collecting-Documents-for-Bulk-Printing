@@ -20,7 +20,7 @@
 ### Key Points:
 - The script searches for PDFs inside `Complete` folders. It uses the package called Tkinter, which should come preinstalled with Python.
 - It will create a new folder at the save location named with the number of PDFs collected and the parent folder name.
-- I added some example PDFs for testing to this same directory, you can try it here first
+- I added some example PDFs for testing to this same directory, so you can try it here first. There's 4 subfolders, with 1 pdf in the complete folder in each.
 
 
 ### Improvements to be Made
