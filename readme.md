@@ -1,6 +1,6 @@
 ### How to Use `collect_pdfs.py`
 
-1. Download this project: git clone https://github.com/alexr223/pdf-collector.git
+1. Download this project: ```git clone https://github.com/alexr223/pdf-collector.git``` You can also do this: https://github.com/alexr223/pdf-collector/archive/refs/heads/main.zip.
 
 2.  **Run the Script**  
    Open a terminal, navigate to the folder containing `collect_pdfs.py`, and run the script in VS Code or just in Windows Command Prompt with:
@@ -18,7 +18,7 @@
    After saving, you can choose to select another parent directory or exit the script. If no more directories are selected, the script will close.
 
 ### Key Points:
-- The script searches for PDFs inside `Complete` folders.
+- The script searches for PDFs inside `Complete` folders. It uses the package called Tkinter, which should come preinstalled with Python.
 - It will create a new folder at the save location named with the number of PDFs collected and the parent folder name.
 - I added some example PDFs for testing to this same directory, you can try it here first
 
