@@ -1,18 +1,20 @@
 ### How to Use `collect_pdfs.py`
 
-1. **Run the Script**  
+1. Download this project: git clone https://github.com/alexr223/pdf-collector.git
+
+2.  **Run the Script**  
    Open a terminal, navigate to the folder containing `collect_pdfs.py`, and run the script with:
    ```bash
    python collect_pdfs.py
    ```
 
-2. **Select Parent Directory**  
+3. **Select Parent Directory**  
    The script will prompt you to select the parent directory that contains subfolders with a `Complete` folder. This is where it will search for PDFs.
 
-3. **Select Save Directory**  
+4. **Select Save Directory**  
    After gathering the PDFs, you'll be asked to choose a destination folder where the compiled PDFs will be saved.
 
-4. **Repeat or Exit**  
+5. **Repeat or Exit**  
    After saving, you can choose to select another parent directory or exit the script. If no more directories are selected, the script will close.
 
 ### Key Points:
