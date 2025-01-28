@@ -1,0 +1,54 @@
+# General Python ignores
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environments
+venv/
+env/
+*.env/
+.venv/
+*.venv/
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+
+# PyInstaller build directories
+dist/
+build/
+*.spec
+
+# VS Code settings
+.vscode/
+
+# JetBrains IDE settings
+.idea/
+
+# Python distribution files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Test and coverage files
+*.coverage
+*.coverage.*
+nosetests.xml
+coverage.xml
+*.hypothesis/
+
+# Python wheel
+*.whl
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and temporary files
+*.log
+*.bak
+*.swp
+*.swo
