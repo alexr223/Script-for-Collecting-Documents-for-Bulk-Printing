@@ -5,7 +5,7 @@ Also, VS Code: https://code.visualstudio.com/download
 
 ### To run in VS Code (without executable)
 
-1. Download this project by running this command in Windows PowerShell: ```git clone https://github.com/alexr223/Script-for-Collecting-Documents-for-Bulk-Printing``` You can also do this: https://github.com/alexr223/Script-for-Collecting-Documents-for-Bulk-Printingr/archive/refs/heads/main.zip.
+1. Download this project by running this command in Windows PowerShell: ```git clone https://github.com/alexr223/Script-for-Collecting-Documents-for-Bulk-Printing``` You can also do this: https://github.com/alexr223/Script-for-Collecting-Documents-for-Bulk-Printing/archive/refs/heads/main.zip.
 
 2.  **Run the Script**  
    Open a terminal, navigate to the folder containing `collect_pdfs.py`, and run the script in VS Code or just in Windows PowerShell with:
