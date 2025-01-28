@@ -1,5 +1,10 @@
 ### How to Use `collect_pdfs.py`
 
+You will need Python, which you can install here: https://www.python.org/downloads/
+Also, VS Code: https://code.visualstudio.com/download
+
+### To run in VS Code (without executable)
+
 1. Download this project by running this command in Windows PowerShell: ```git clone https://github.com/alexr223/pdf-collector.git``` You can also do this: https://github.com/alexr223/pdf-collector/archive/refs/heads/main.zip.
 
 2.  **Run the Script**  
@@ -22,6 +27,12 @@
 - It will create a new folder at the save location named with the number of PDFs collected and the parent folder name.
 - I added some example PDFs for testing to this same directory, so you can try it here first. There's 4 subfolders, with 1 pdf in the complete folder in each.
 
+### To run as an executable:
+Go to ```dist/collect_pdfs.exe``` and run it
 
 ### Improvements to be Made
-- Maybe look for PDFs in folders that maybe spelled "Complete " or "Completed"/folders with almost the exact same name but slight variations.
+```diff
+- Maybe look for PDFs in folders that maybe spelled "Complete " or "Completed"/folders with almost the exact same name but slight variations.~~~
+```
+
+> Above was added on 1/28/25
