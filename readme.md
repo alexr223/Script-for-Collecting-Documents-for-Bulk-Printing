@@ -1,9 +1,9 @@
 ### How to Use `collect_pdfs.py`
 
-1. Download this project: ```git clone https://github.com/alexr223/pdf-collector.git``` You can also do this: https://github.com/alexr223/pdf-collector/archive/refs/heads/main.zip.
+1. Download this project by running this command in Windows PowerShell: ```git clone https://github.com/alexr223/pdf-collector.git``` You can also do this: https://github.com/alexr223/pdf-collector/archive/refs/heads/main.zip.
 
 2.  **Run the Script**  
-   Open a terminal, navigate to the folder containing `collect_pdfs.py`, and run the script in VS Code or just in Windows Command Prompt with:
+   Open a terminal, navigate to the folder containing `collect_pdfs.py`, and run the script in VS Code or just in Windows PowerShell with:
    ```terminal
    python collect_pdfs.py
    ```
