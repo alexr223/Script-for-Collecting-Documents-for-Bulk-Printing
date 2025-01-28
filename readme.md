@@ -36,3 +36,6 @@ Go to ```dist/collect_pdfs.exe``` and run it
 ```
 
 > Above was added on 1/28/25
+
+# Errors
+- Printing was out of order due not to sorting the subfolders first by name in ascending order. Should be fixed.

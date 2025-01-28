@@ -24,17 +24,22 @@ def select_save_directory():
     save_directory = filedialog.askdirectory(title="Select Destination Folder")
     return save_directory
 
+
 def gather_pdfs(parent_directory):
-    """Gather all PDF files from the 'Complete' folders in each subfolder of the parent directory."""
+    """Gather all PDF files from the 'Complete' folders in each subfolder of the parent directory in ascending order."""
     pdf_files = []
-    # Iterate through each subfolder
-    for subdir, dirs, files in os.walk(parent_directory):
-        # Check if the "Complete" folder exists in the current directory
-        if "Complete" in os.path.basename(subdir):
-            for file in files:
+    # Get a sorted list of all subdirectories
+    subfolders = sorted([os.path.join(parent_directory, d) for d in os.listdir(parent_directory) if os.path.isdir(os.path.join(parent_directory, d))])
+    
+    for subfolder in subfolders:
+        # Check if the folder name contains "Complete"
+        if "Complete" in os.path.basename(subfolder):
+            # Look for PDF files in the current "Complete" folder
+            for file in sorted(os.listdir(subfolder)):  # Sort files within the folder
                 if file.lower().endswith(".pdf"):
-                    pdf_files.append(os.path.join(subdir, file))
+                    pdf_files.append(os.path.join(subfolder, file))
     return pdf_files
+
 
 def create_destination_folder(save_directory, parent_name, num_pdfs):
     """Create a new folder to save the compiled PDFs, named with the parent folder name and the number of PDFs."""
